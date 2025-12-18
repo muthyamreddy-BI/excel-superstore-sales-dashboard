@@ -39,4 +39,9 @@ The dashboard helps business users track **key KPIs**, identify high-performing 
 
 ##  Author
 Muthyam Lavanya Reddy  
-Aspiring Data Analyst | Excel | SQL | Power BI | Python
+Aspiring Data Analyst | Data Enthusiast 
+| Email - muthyamreddy282@gmail.com 
+| LinkedIn - https://www.linkedin.com/in/muthyam-lavanya-reddy-0891aa224/
+
+  
+
